@@ -1,6 +1,6 @@
 # AI裁判官
 
-![IMAGE ALT TEXT HERE](./image.png)
+![紹介画像](./image.png)
 
 ## 製品概要
 
