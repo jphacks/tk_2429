@@ -1,6 +1,6 @@
 # AI裁判官
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2024/07/JPHACKS2024_ogp.jpg)](https://www.youtube.com/watch?v=DZXUkEj-CSI)
+![IMAGE ALT TEXT HERE](./image.png)
 
 ## 製品概要
 
